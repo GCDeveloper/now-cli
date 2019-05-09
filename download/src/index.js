@@ -33,6 +33,7 @@ const platformToName = {
   alpine: 'now-alpine',
   darwin: 'now-macos',
   linux: 'now-linux',
+  android: 'now-linux',
   win32: 'now-win.exe'
 };
 
